@@ -1,3 +1,3 @@
-# 1.ProjectKnockoutjsOk
+# 2.ProjectKnockoutjsOk
 
-Contador com Knockoutjs
+Adicionando itens na tela com a Array opertaion do Knockoutjs
